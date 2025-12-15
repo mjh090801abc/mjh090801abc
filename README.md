@@ -24,4 +24,6 @@
 
 ## 📚 stats <br>
 ![mjh090801abc GitHub stats](https://github-readme-stats.vercel.app/api?username=mjh090801abc&show_icons=true&theme=radical) <br>
+
+## 🏆 beakjoon <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mjh090801abc)](https://solved.ac/mjh090801abc)
