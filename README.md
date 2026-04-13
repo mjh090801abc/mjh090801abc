@@ -22,5 +22,5 @@
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)](https://spring.io/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)](https://www.mysql.com/) <br>
 
-## 🏆 beakjoon <br>
+## 🏆 boj <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mjh090801abc)](https://solved.ac/mjh090801abc)
