@@ -1,3 +1,6 @@
+![Github_Streak](https://streak-stats.demolab.com/?user=mjh090801abc&theme=tokyonight)
+
+
 # 👋 안녕하세요! <br>
 저는 현재 대구소프트웨어마이스터고에 재학 중이며, 백엔드 개발자를 꿈꾸며 공부하고 있는 문정훈입니다. <br>
 학교에 입학하기 전에는 전공도 정하지 못했고, 코딩 경험도 거의 없었지만,
